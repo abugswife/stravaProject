@@ -5,7 +5,7 @@ module.exports = (browser, data) => {
         .click('@email')
         .setValue('@email', 'bribriwoo@outlook.com')
         .click('@password')
-        .setValue('@password', 'devmountaintest2020')
+        .setValue('@password', 'devtest2020!')
         .click('@loginButton2')
         .pause(1000)
 }
