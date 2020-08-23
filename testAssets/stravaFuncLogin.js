@@ -3,9 +3,9 @@ module.exports = (browser, data) => {
     browser
         .click('@loginButton')
         .click('@email')
-        .setValue('@email', 'davisdbrianna@gmail.com')
+        .setValue('@email', 'bribriwoo@outlook.com')
         .click('@password')
-        .setValue('@password', 'bdenisem0')
+        .setValue('@password', 'devmountaintest2020')
         .click('@loginButton2')
         .pause(1000)
 }
